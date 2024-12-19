@@ -3,7 +3,7 @@
 ## Ask your questions, get motivational quotes and advice from Magic Spheres!
 Magic Spheres will support you in challenging moments, give you emotional support, motivation, and answer any of your questions, even those that have no answer!
 This app was created as homework given at the end of Unit 4 in the Android Basics with Compose course, where students were asked to create 
-an application called My City App, in which they would describe the sights of their city. I found the idea of ​​My City App boring so that's why I came up with Magic Spheres!
+an application to consolidate skill in developing multi-screen app with adaptive layout and navigation for different screen sizes.
 
 ⚠️ **IMPORTANT:**
 **`PLEASE DO NOT TRUST YOUR VITAL DECISIONS AND DESTINY TO THIS APPLICATION. MAGIC SPHERES IS NOT DESIGNED FOR SERIOUS DECISIONS OR PREDICTIONS.
